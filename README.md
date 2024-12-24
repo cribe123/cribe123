@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @cribe123
 - 👀 I’m interested in WEB
-- 🌱 I’m currently learning JS
-- ⚡ Fun fact: I like pufferfish!
+- ⚡ I’m currently learning JS
+- 🐡 Fun fact: I like pufferfish!
