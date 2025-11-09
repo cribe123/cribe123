@@ -2,3 +2,5 @@
 - 👀 I’m interested in WEB and AI
 - ⚡ I’m currently learning NodeJS and Keras
 - 🐡 Fun fact: I like pufferfish!
+
+Have a good day! 😊
